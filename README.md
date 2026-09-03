@@ -1,11 +1,11 @@
-<!-- Banner Image (Make sure banner.jpeg is in the same repository folder) -->
+<!-- Banner Image (Make sure banner.jpeg is saved in your repository) -->
 <p align="center">
   <img src="banner.jpeg" alt="Md Abdur Rahman Banner" width="100%"/>
 </p>
 
 <!-- Title & Designation -->
 <h1 align="center">Hi 👋, I'm Md Abdur Rahman</h1>
-<h3 align="center">Junior Web Developer </h3>
+<h3 align="center">Junior Web Developer | Frontend & WordPress Specialist</h3>
 
 <!-- Profile Views Badge -->
 <p align="center">
@@ -61,6 +61,26 @@ I am an enthusiastic **Junior Web Developer** dedicated to crafting responsive, 
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
 </p>
+
+---
+
+### 🚀 Featured Projects
+
+#### 🌐 B14-01 Assignment
+A web development assignment project created during my learning journey to practice modern layout design.
+
+- **Technologies:** HTML • CSS
+- 🔗 [Live Demo](https://abdurrahmanictiu2015.github.io/b-14-assignment-01/)
+- 🔗 [Repository](https://github.com/abdurrahmanictiu2015/b-14-assignment-01)
+
+---
+
+#### 🧩 Web Layout Project - Assignment 01
+A responsive web application project built using HTML5 and custom CSS styling.
+
+- **Technologies:** HTML • CSS
+- 🔗 [Live Demo](https://abdurrahmanictiu2015.github.io/b-14-assignment-01/)
+- 🔗 [Repository](https://github.com/abdurrahmanictiu2015/b-14-assignment-01)
 
 ---
 

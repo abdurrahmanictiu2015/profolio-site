@@ -101,7 +101,7 @@ A responsive web application project built using HTML5 and custom CSS styling.
 
 <p align="left">
   <a href="mailto:mabrahman44@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mabrahman44%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Email-mabrahman44@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/md-abdur-rahman-ict-iu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Md%20Abdur%20Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>

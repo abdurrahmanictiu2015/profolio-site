@@ -5,7 +5,7 @@
 
 <!-- Title & Designation -->
 <h1 align="center">Hi 👋, I'm Md Abdur Rahman</h1>
-<h3 align="center">Junior Web Developer | Frontend & WordPress Specialist</h3>
+<h3 align="center">Junior Web Developer </h3>
 
 <!-- Profile Views Badge -->
 <p align="center">
